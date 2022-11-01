@@ -1,0 +1,12 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+cypress
+.DS_Store
+test
+
+#Hardhat files
+cache
+artifacts

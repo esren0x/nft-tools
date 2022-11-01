@@ -1,0 +1,21 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@types/phoenix": "^1.5.4",
+    "chai": "^4.3.6",
+    "cypress": "^10.3.0",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.5",
+    "hardhat": "^2.9.3"
+  },
+  "dependencies": {
+    "@opensea/stream-js": "^0.0.19",
+    "api": "^4.4.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.2.4",
+    "ws": "^8.6.0"
+  }
+}
